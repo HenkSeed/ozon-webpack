@@ -1,3 +1,4 @@
+// Открывает и закрывает модальное окно карзины
 const cart = () => {
     const cartBtn = document.getElementById("cart")
 
