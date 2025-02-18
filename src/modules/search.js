@@ -1,7 +1,6 @@
 import getData from "./getData"
 import renderGoods from "./renderGoods"
 import { searchFilter } from "./filters"
-import { categoryFilter } from "./filters"
 
 const search = () => {
     const searchInput = document.querySelector(".search-wrapper_input")
